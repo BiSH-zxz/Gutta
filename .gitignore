@@ -1,0 +1,65 @@
+```
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+pubspec.lock
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/build/
+*.xcworkspace/
+xcuserdata/
+
+# Web
+build/web/
+
+# Linux
+linux/build/
+
+# macOS
+macos/build/
+*.xcworkspace/
+xcuserdata/
+
+# Windows
+windows/runner/Build/
+windows/runner/build/
+
+# Generated plugin registrant files
+lib/generated_plugin_registrant.*
+
+# Metadata
+.metadata
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+```
